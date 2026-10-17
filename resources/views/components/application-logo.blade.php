@@ -1,0 +1,1 @@
+<img src="{{ asset('images/logo.png') }}" alt="Logo Fellivo" {{ $attributes->merge(['class' => 'h-auto max-h-12 w-auto object-contain']) }}>
